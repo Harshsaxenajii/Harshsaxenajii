@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://harshsaxenajii.github.io/portfolio/](https://harshsaxenajii.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-ten-omega.vercel.app/](https://new-portfolio-ten-omega.vercel.app/)
 
 - 💬 Ask me about **ReactJs**
 
